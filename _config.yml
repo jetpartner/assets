@@ -1,1 +1,4 @@
+name: jp-assets
+description: jp assets repo
 theme: jekyll-theme-minimal
+markdown: GFM
